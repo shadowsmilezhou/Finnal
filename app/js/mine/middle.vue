@@ -12,11 +12,6 @@
                 <p>查看全部 ></p>
             </li>
              <li :class="$style.item">
-                 <img src="https://img12.360buyimg.com/jrpmobile/jfs/t10264/48/2521964269/2177/cb479501/59f945edNc1197b64.png?width=90&height=90" alt="">
-                <p :class="$style.p1">我的金币</p>
-                <p>赚金币兑好物 ></p>
-            </li>
-             <li :class="$style.item">
                  <img src="https://img12.360buyimg.com/jrpmobile/jfs/t9244/132/2364556535/1134/334cd5d9/59cb612dN5b974dc5.png?width=70&height=70" alt="">
                 <p :class="$style.p1">我的借钱</p>
                 <p>查看全部产品 ></p>
