@@ -26,7 +26,7 @@
                 </router-link>
             </li>
             <li>
-                <router-link :to="{ name: 'raise'}">
+                <router-link :to="{ name: 'mine'}" >
                     <img src="//img12.360buyimg.com/jrpmobile/jfs/t3340/68/639059082/2591/800e2d6b/580f51cdN4caf20b2.png?width=66&height=66" alt="">
                     <p>我的</p>
                 </router-link>
